@@ -1,0 +1,5 @@
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Cliente.BO\bin\Debug\Dim.Cliente.BO.dll
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Cliente.BO\bin\Debug\Dim.Cliente.BO.pdb
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Cliente.BO\obj\Debug\Dim.Cliente.BO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Cliente.BO\obj\Debug\Dim.Cliente.BO.dll
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Cliente.BO\obj\Debug\Dim.Cliente.BO.pdb

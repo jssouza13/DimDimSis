@@ -1,0 +1,6 @@
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Fornecedor.BO\obj\Debug\Dim.Fornecedor.BO.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Fornecedor.BO\obj\Debug\Dim.Fornecedor.BO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Fornecedor.BO\bin\Debug\Dim.Fornecedor.BO.dll
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Fornecedor.BO\bin\Debug\Dim.Fornecedor.BO.pdb
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Fornecedor.BO\obj\Debug\Dim.Fornecedor.BO.dll
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Fornecedor.BO\obj\Debug\Dim.Fornecedor.BO.pdb

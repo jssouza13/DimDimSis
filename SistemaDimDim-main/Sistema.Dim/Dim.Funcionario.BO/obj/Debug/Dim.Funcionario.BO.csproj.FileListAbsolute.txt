@@ -1,0 +1,5 @@
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Funcionario.BO\bin\Debug\Dim.Funcionario.BO.dll
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Funcionario.BO\bin\Debug\Dim.Funcionario.BO.pdb
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Funcionario.BO\obj\Debug\Dim.Funcionario.BO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Funcionario.BO\obj\Debug\Dim.Funcionario.BO.dll
+C:\Users\aluno\source\repos\Sistema.Dim\Dim.Funcionario.BO\obj\Debug\Dim.Funcionario.BO.pdb

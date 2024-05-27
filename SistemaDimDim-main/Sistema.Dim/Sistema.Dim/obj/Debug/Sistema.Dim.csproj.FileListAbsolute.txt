@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.Form1.resources
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.Properties.Resources.resources
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\bin\Debug\Sistema.Dim.exe.config
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\bin\Debug\Sistema.Dim.exe
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\bin\Debug\Sistema.Dim.pdb
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.exe
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.pdb
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.Tela_cadCliente.resources
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.Tela_Menu.resources
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.Tela_cadFuncionario.resources
+C:\Users\aluno\source\repos\Sistema.Dim\Sistema.Dim\obj\Debug\Sistema.Dim.Tela_cadFornecedor.resources
